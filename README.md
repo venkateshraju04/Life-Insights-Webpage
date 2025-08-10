@@ -4,5 +4,3 @@ Web dev assignment.
 - PHP
 - HTML
 - CSS
-
-[Live Preview](http://lifeinsights.free.nf/?i=1)
